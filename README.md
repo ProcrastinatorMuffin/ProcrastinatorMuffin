@@ -1,34 +1,6 @@
 ### Hey there, I'm Danil 👋
 
-<!--Badges-->
-<p align="left">
-  <a href="https://github.com/pjotrvas">
-    <img src="https://badgen.net/badge/icon/github?icon=github&label" alt="GitHub badge">
-  </a>
-  <a href="https://python.org/">
-    <img src="https://badgen.net/badge/icon/python?icon=python&label" alt="Python badge">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://badgen.net/badge/icon/javascript?icon=javascript&label" alt="JavaScript badge">
-  </a>
-  <a href="https://www.java.com/en/">
-    <img src="https://badgen.net/badge/icon/java?icon=java&label" alt="Java badge">
-  </a>
-  <a href="https://www.rust-lang.org/">
-    <img src="https://badgen.net/badge/icon/rust?icon=rust&label" alt="Rust badge">
-  </a>
-  <a href="https://svelte.dev/">
-    <img src="https://badgen.net/badge/icon/svelte?icon=svelte&label" alt="Svelte badge">
-  </a>
-  <a href="https://vuejs.org/">
-    <img src="https://badgen.net/badge/icon/vue.js?icon=vue.js&label" alt="Vue.js badge">
-  </a>
-  <a href="https://nextjs.org/">
-    <img src="https://badgen.net/badge/icon/next.js?icon=next.js&label" alt="Next.js badge">
-  </a>
-</p>
-
-[![Danil's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProcrastinatorMuffin&show_icons=true&theme=onedark)](https://github.com/ProcrastinatorMuffin/github-readme-stats)
+[![ProcrastinatoMuffin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProcrastinatorMuffin&show_icons=true&theme=onedark)](https://github.com/ProcrastinatorMuffin/github-readme-stats)
 
 
 <!--Introduction-->
