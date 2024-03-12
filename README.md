@@ -26,4 +26,8 @@
   <p>Thanks for visiting my profile, and feel free to reach out if you'd like to collaborate or just chat about tech! ✨</p>
 </div>
 
-![Visitor Count](https://profile-counter.glitch.me/ProcrastinatorMuffin/count.svg)
+<div align="center">
+    <h4>Visitor Count</h4>
+    <img src="https://profile-counter.glitch.me/ProcrastinatorMuffin/count.svg" alt="Visitor Count">
+</div>
+
