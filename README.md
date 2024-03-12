@@ -1,6 +1,7 @@
 ### Hey there, I'm Danil 👋
 
 <p align="center">
+  <p "My skills:">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
