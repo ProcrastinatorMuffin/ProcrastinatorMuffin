@@ -18,11 +18,11 @@
 </div>
 
 <div>
-    <h4>Bio:</h4>
-    <p>I'm a 19-year-old Computer Science student at Maastricht University. My coding journey started three years ago with Python, and since then, I've ventured into web development, picking up JavaScript.</p>
+  <h4>Bio:</h4>
+  <p>I'm a 19-year-old Computer Science student at Maastricht University. My coding journey started three years ago with Python, and since then,        I've ventured into web development, picking up JavaScript.</p>
     
-    <p>While Python will always hold a special place in my heart, I'm currently dreaming of becoming a Rust GigaChad! 💻🦀</p>
+  <p>While Python will always hold a special place in my heart, I'm currently dreaming of becoming a Rust GigaChad! 💻🦀</p>
     
-    <p>Thanks for visiting my profile, and feel free to reach out if you'd like to collaborate or just chat about tech! ✨</p>
+  <p>Thanks for visiting my profile, and feel free to reach out if you'd like to collaborate or just chat about tech! ✨</p>
 </div>
 
