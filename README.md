@@ -1,6 +1,6 @@
 ### Hey there, I'm Danil 👋
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=ProcrastinatorMuffin&show_icons=true&theme=onedark)](https://github.com/ProcrastinatorMuffin/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ProcrastinatorMuffin&repo=VUE-health-app)](https://github.com/ProcrastinatorMuffin/VUE-health-app)
 <!--Introduction-->
