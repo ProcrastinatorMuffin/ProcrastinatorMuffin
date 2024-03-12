@@ -2,7 +2,7 @@
 
 [![Danil's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProcrastinatorMuffin&show_icons=true&theme=onedark)](https://github.com/ProcrastinatorMuffin/github-readme-stats)
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ProcrastinatorMuffin&repo=VUE-health-app)](https://github.com/ProcrastinatorMuffin/VUE-health-app)
 <!--Introduction-->
 I'm a 19-year-old Computer Science student at Maastricht University. My coding journey started three years ago with Python, and since then, I've ventured into web development, picking up JavaScript.
 
