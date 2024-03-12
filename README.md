@@ -1,6 +1,10 @@
 ### Hey there, I'm Danil 👋
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=ProcrastinatorMuffin&show_icons=true&theme=onedark)](https://github.com/ProcrastinatorMuffin/github-readme-stats)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 #### Top Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ProcrastinatorMuffin&repo=VUE-health-app)](https://github.com/ProcrastinatorMuffin/VUE-health-app)
