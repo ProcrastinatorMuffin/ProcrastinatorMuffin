@@ -26,3 +26,4 @@
   <p>Thanks for visiting my profile, and feel free to reach out if you'd like to collaborate or just chat about tech! ✨</p>
 </div>
 
+![Visitor Count](https : //profile-counter.glitch.me/{YOUR USER}/count.svg)
