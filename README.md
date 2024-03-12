@@ -1,9 +1,8 @@
 ### Hey there, I'm Danil 👋
 
 <p align="center">
-  <p "My skills:">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git, github, docker, vim, py, js, vue, express, nextjs, nodejs, svelte" />
   </a>
 </p>
 
