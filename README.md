@@ -2,7 +2,10 @@
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=ProcrastinatorMuffin&show_icons=true&theme=onedark)](https://github.com/ProcrastinatorMuffin/github-readme-stats)
 
+#### Top Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ProcrastinatorMuffin&repo=VUE-health-app)](https://github.com/ProcrastinatorMuffin/VUE-health-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ProcrastinatorMuffin&repo=NextJS-Online-Library)](https://github.com/ProcrastinatorMuffin/NextJS-Online-Library)
+
 <!--Introduction-->
 I'm a 19-year-old Computer Science student at Maastricht University. My coding journey started three years ago with Python, and since then, I've ventured into web development, picking up JavaScript.
 
