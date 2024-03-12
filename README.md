@@ -17,6 +17,10 @@
     </a>
 </div>
 
+<div hx-get="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-extra-pins" hx-trigger="revealed" id="repositories">
+    Loading repositories...
+</div>
+
 <div>
   <h4>Bio:</h4>
   <p>I'm a Computer Science student at Maastricht University.</p>
