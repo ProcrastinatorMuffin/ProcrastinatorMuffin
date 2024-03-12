@@ -1,47 +1,11 @@
-<style>
-    body {
-        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        line-height: 1.6;
-        color: #333;
-        max-width: 800px;
-        margin: auto;
-        padding: 20px;
-    }
-    h1, h4 {
-        color: #007bff;
-    }
-    a {
-        color: #007bff;
-        text-decoration: none;
-    }
-    a:hover {
-        text-decoration: underline;
-    }
-    .center {
-        text-align: center;
-    }
-    .bio, .skills, .top-repos {
-        margin-bottom: 20px;
-    }
-    .skills img, .top-repos img {
-        margin: 10px;
-        transition: transform 0.2s ease;
-    }
-    .skills img:hover, .top-repos img:hover {
-        transform: scale(1.05);
-    }
-</style>
+<h1 align="center">Hey there, I'm Danil 👋 </h1>
 
-<div class="center">
-    <h1>Hey there, I'm Danil 👋</h1>
-</div>
-
-<div class="skills center">
-    <h1>My skills</h1>
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,github,docker,vim,py,js,vue,express,nextjs,nodejs,svelte" />
-    </a>
-</div>
+<h1 align="center">My skills</h1>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,vim,py,js,vue,express,nextjs,nodejs,svelte" />
+  </a>
+</p>
 
 <div align="center">
     <h1>Top Repositories</h1>
