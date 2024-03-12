@@ -1,4 +1,4 @@
-### Hey there, I'm Danil 👋
+<h1 align="center">Hey there, I'm Danil 👋 </h1>
 
 <h1 align="center">My skills</h1>
 <p align="center">
@@ -14,13 +14,6 @@
     </a>
     <a href="https://github.com/ProcrastinatorMuffin/NextJS-Online-Library">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProcrastinatorMuffin&repo=NextJS-Online-Library" alt="Readme Card">
-    </a>
-</div>
-
-<div align="center">
-  <h1>Languages</h1>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProcrastinatorMuffin" alt="Top Langs">
     </a>
 </div>
 
