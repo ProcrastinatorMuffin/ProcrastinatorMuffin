@@ -15,12 +15,13 @@
     <a href="https://github.com/ProcrastinatorMuffin/NextJS-Online-Library">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProcrastinatorMuffin&repo=NextJS-Online-Library" alt="Readme Card">
     </a>
+</div>
 
-    <h1>Languages</h1>
+<div align="center">
+  <h1>Languages</h1>
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProcrastinatorMuffin" alt="Top Langs">
     </a>
-    
 </div>
 
 
