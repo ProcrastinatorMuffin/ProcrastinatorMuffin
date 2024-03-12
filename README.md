@@ -1,6 +1,6 @@
 ### Hey there, I'm Danil 👋
 
-[![ProcrastinatoMuffin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProcrastinatorMuffin&show_icons=true&theme=onedark)](https://github.com/ProcrastinatorMuffin/github-readme-stats)
+[![Danil's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProcrastinatorMuffin&show_icons=true&theme=onedark)](https://github.com/ProcrastinatorMuffin/github-readme-stats)
 
 
 <!--Introduction-->
