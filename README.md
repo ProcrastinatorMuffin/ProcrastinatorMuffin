@@ -7,7 +7,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ProcrastinatorMuffin&repo=NextJS-Online-Library)](https://github.com/ProcrastinatorMuffin/NextJS-Online-Library)
 
 #### Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProcrastinatorMuffin)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](github-readme-stats-procrastinatormuffins-projects.vercel.app/api/top-langs/?username=ProcrastinatorMuffin)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--Introduction-->
 I'm a 19-year-old Computer Science student at Maastricht University. My coding journey started three years ago with Python, and since then, I've ventured into web development, picking up JavaScript.
