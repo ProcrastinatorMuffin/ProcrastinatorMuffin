@@ -28,7 +28,7 @@
   </a>
 </p>
 <p align="left">
-  <img src="https://badgen.net/github/stats/pjotrvas/pjotrvas?cacheBust=1" alt="GitHub stats badge">
+  <img src="https://badgen.net/github/stats/ProcrastinatorMuffin/ProcrastinatorMuffin?cacheBust=1" alt="GitHub stats badge">
 </p>
 
 <!--Introduction-->
