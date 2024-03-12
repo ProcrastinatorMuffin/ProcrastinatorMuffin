@@ -1,13 +1,13 @@
 ### Hey there, I'm Danil 👋
 
-[![Stats](github-readme-stats-msm4ietmm-procrastinatormuffins-projects.vercel.app/api?username=ProcrastinatorMuffin&show_icons=true&theme=onedark)](https://github.com/ProcrastinatorMuffin/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=ProcrastinatorMuffin&show_icons=true&theme=onedark)](https://github.com/ProcrastinatorMuffin/github-readme-stats)
 
 #### Top Repositories
-[![Readme Card](github-readme-stats-msm4ietmm-procrastinatormuffins-projects.vercel.app/api/pin/?username=ProcrastinatorMuffin&repo=VUE-health-app)](https://github.com/ProcrastinatorMuffin/VUE-health-app)
-[![Readme Card](github-readme-stats-msm4ietmm-procrastinatormuffins-projects.vercel.app/api/pin/?username=ProcrastinatorMuffin&repo=NextJS-Online-Library)](https://github.com/ProcrastinatorMuffin/NextJS-Online-Library)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ProcrastinatorMuffin&repo=VUE-health-app)](https://github.com/ProcrastinatorMuffin/VUE-health-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ProcrastinatorMuffin&repo=NextJS-Online-Library)](https://github.com/ProcrastinatorMuffin/NextJS-Online-Library)
 
 #### Languages
-[![Top Langs](github-readme-stats-msm4ietmm-procrastinatormuffins-projects.vercel.app/api/top-langs/?username=ProcrastinatorMuffin)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProcrastinatorMuffin)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--Introduction-->
 I'm a 19-year-old Computer Science student at Maastricht University. My coding journey started three years ago with Python, and since then, I've ventured into web development, picking up JavaScript.
