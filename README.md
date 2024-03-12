@@ -27,9 +27,9 @@
     <img src="https://badgen.net/badge/icon/next.js?icon=next.js&label" alt="Next.js badge">
   </a>
 </p>
-<p align="left">
-  <img src="https://badgen.net/github/stats/ProcrastinatorMuffin/ProcrastinatorMuffin?cacheBust=1" alt="GitHub stats badge">
-</p>
+
+[![Danil's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProcrastinatorMuffin)](https://github.com/ProcrastinatorMuffin/github-readme-stats)
+
 
 <!--Introduction-->
 I'm a 19-year-old Computer Science student at Maastricht University. My coding journey started three years ago with Python, and since then, I've ventured into web development, picking up JavaScript.
